@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">क्रीड़ा-प्रेरणा</string>
+    <string name="app_subtitle">ग्रामीण प्रतिभा के लिए डिजिटल स्काउट</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">होम</string>
+    <string name="nav_athletes">खिलाड़ी</string>
+    <string name="nav_timer">टाइमर</string>
+    <string name="nav_leaderboard">लीडरबोर्ड</string>
+    <string name="nav_settings">सेटिंग्स</string>
+
+    <!-- Athletes -->
+    <string name="add_athlete">खिलाड़ी जोड़ें</string>
+    <string name="edit_athlete">खिलाड़ी संपादित करें</string>
+    <string name="delete_athlete">खिलाड़ी हटाएं</string>
+    <string name="athlete_name">पूरा नाम</string>
+    <string name="athlete_age">उम्र</string>
+    <string name="athlete_gender">लिंग</string>
+    <string name="athlete_school">स्कूल का नाम</string>
+    <string name="athlete_class">कक्षा</string>
+    <string name="athlete_sport">प्राथमिक खेल</string>
+    <string name="search_athletes">खिलाड़ी खोजें…</string>
+
+    <!-- Gender -->
+    <string name="gender_male">पुरुष</string>
+    <string name="gender_female">महिला</string>
+    <string name="gender_other">अन्य</string>
+
+    <!-- Sports -->
+    <string name="sport_athletics">एथलेटिक्स</string>
+    <string name="sport_kabaddi">कबड्डी</string>
+    <string name="sport_kho_kho">खो-खो</string>
+    <string name="sport_cricket">क्रिकेट</string>
+    <string name="sport_football">फुटबॉल</string>
+    <string name="sport_hockey">हॉकी</string>
+
+    <!-- Chronometer -->
+    <string name="chrono_start">शुरू</string>
+    <string name="chrono_stop">रोकें</string>
+    <string name="chrono_lap">लैप</string>
+    <string name="chrono_reset">रीसेट</string>
+    <string name="chrono_save">खिलाड़ी को सहेजें</string>
+
+    <!-- Badges -->
+    <string name="badge_district">जिला स्तर तैयार</string>
+    <string name="badge_state">राज्य स्तर तैयार</string>
+    <string name="badge_national">राष्ट्रीय स्तर तैयार</string>
+
+    <!-- Performance -->
+    <string name="log_performance">प्रदर्शन दर्ज करें</string>
+    <string name="performance_history">प्रदर्शन इतिहास</string>
+    <string name="talent_curve">प्रतिभा वक्र</string>
+
+    <!-- Batch Entry -->
+    <string name="batch_entry">बैच एंट्री</string>
+    <string name="save_all">सभी एंट्री सहेजें</string>
+
+    <!-- Common -->
+    <string name="save">सहेजें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="edit">संपादित करें</string>
+    <string name="back">वापस</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="no_data">कोई डेटा उपलब्ध नहीं</string>
+    <string name="error_occurred">एक त्रुटि हुई</string>
+
+    <!-- Khelo India -->
+    <string name="khelo_india_title">खेलो इंडिया का समर्थन</string>
+    <string name="khelo_india_desc">हीरे की खोज — हर ग्रामीण खिलाड़ी राष्ट्रीय मंच पर चमकने का हकदार है।</string>
+</resources>

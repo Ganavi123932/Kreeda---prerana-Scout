@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup-rules>
+        <include domain="database" path="kreeda_prerana.db" />
+        <include domain="sharedpref" path="." />
+    </cloud-backup-rules>
+    <device-transfer-rules>
+        <include domain="database" path="kreeda_prerana.db" />
+        <include domain="sharedpref" path="." />
+    </device-transfer-rules>
+</data-extraction-rules>
