@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kreeda-Prerana Scout 🏏
 
 **Digital Scout for Rural Athletic Talent** — Supporting Khelo India
@@ -56,3 +57,6 @@ app/src/main/java/com/kreeda/prerana/
 ## License
 
 Built for India's young athletes 🇮🇳
+=======
+# Kreeda---prerana-Scout
+>>>>>>> 5d32220f42b30938382e36834c5cb7754e65dd0a
