@@ -1,0 +1,22 @@
+# Built artifacts
+/build
+/app/build
+
+# IDE
+.idea/
+*.iml
+.gradle/
+
+# Local config
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore
+*.jks
+*.keystore
+
+# Debug
+*.hprof
